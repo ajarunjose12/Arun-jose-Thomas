@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ajarunjose12
+- 👋 Hi, I’m Arun Jose Thomas
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning "IBM full stack cloud developer"
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning "IBM full stack cloud software developer"
 - 📫 you can contact me through my gmail( ajarunjose12@gmail.com ) or call me on (346)494-4719
 
 <!---
